@@ -2,9 +2,11 @@ Title:
 Student Mood Predictor
 
 Overview
+
 In today’s daily life, a student’s performance and productivity is heavily influenced by lifestyle factors, such as sleeping schedule, screen time, stress levels, etc.  This project is a Machine Learning (ML) application created to predict a student’s study state (“Focused”, “Distracted”, or “Stressed”). This project analyzes daily habits and uses a Decision Tree model to classify the user’s mood and gives useful tip to improve their performance on academics. 
 
 Technologies used
+
 1. Python
 2. Pandas
 3. Numpy
@@ -15,6 +17,7 @@ Technologies used
 
 Steps to install and run the project
 
+
 1. Make sure you have python 3.x installed. You also need to install some libraries:
    1.1 Pandas
    1.2 sckit-learn
@@ -22,6 +25,8 @@ Steps to install and run the project
 2. Running the Apllication : Navigate the folder containing the script in terminal
 
 Instructions for Testing
+
+
 To ensure the Mood Classifier is working correctly, follow these test scenarios.
 
 1. Verify File Generation
