@@ -46,39 +46,55 @@ label_encoder.pkl (The encoder for mood labels)
 Enter the following values to test different outcomes:
 
 Case A: The "Focused" case
+
 Input values that simulate a healthy, productive life.
 
 Sleep: 8
+
 Screen Time: 3
+
 Stress Level: 2
+
 Study Time: 5
+
 Breaks: 2
 
 Output: Predicted Study Mood: Focused
 
 Case B: The "Stressed" case
+
 Input values that simulate high stress.
 
 Sleep: 4
+
 Screen Time: 9
+
 Stress Level: 5
+
 Study Time: 2
+
 Breaks: 0
 
 Output: Predicted Study Mood: Stressed
 
 Test Case C: The "Distracted" Scenario
+
 Input values that simulate average activity but lack focus.
 
 Sleep: 6
+
 Screen Time: 6
+
 Stress Level: 3
+
 Study Time: 1
+
 Breaks: 4
 
 Output: Predicted Study Mood: Distracted
 
 3. Troubleshooting
+
 ValueError: Ensure you enter integers only and not the spelling of the number. This current version can't handle text inputs or decimals.
 
 
