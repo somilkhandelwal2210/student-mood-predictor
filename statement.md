@@ -2,6 +2,8 @@ Problem Statement
 
 In the today's academic environment, students often struggle to maintain good consistent productivity which aftect their academics. While many focus on the amount of time spent studying, they often overlook the critical lifestyle factors that influence their productivity—specifically sleep cycle, screen time, and stress levels.
 
+Scope of The Project
+
 1. Functional Scope (Current Features)
 The current version of the Student Mood Predictor operates as a console-based diagnostic tool designed to link daily habits with academic readiness.
 
